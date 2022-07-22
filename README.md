@@ -3,5 +3,5 @@ Welcome to my blender animations page where I try to learn blender animations fr
 
 Hope I dont leave this place after a week or so
 
-https://user-images.githubusercontent.com/53433154/180567441-e44e95ed-e769-4afd-9a05-94a456214868.mp4
 
+![0001-0105 - Copy](https://user-images.githubusercontent.com/53433154/180568153-c29cc3bc-d901-4297-88f2-471dfcaf5132.gif)
