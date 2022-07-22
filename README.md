@@ -1,5 +1,5 @@
 # blenderanimations
-Welcome to my blender animations page where I try to learn blender animations from scratch
+Welcome to my blender animations page where I try to learn how to make animations using blender from scratc
 
 Hope I dont leave this place after a week or so
 
